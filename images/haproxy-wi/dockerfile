@@ -1,2 +1,2 @@
 FROM rsheremet/haproxy-wi:v3.5.7
-ADD haproxy-wi.crt haproxy-wi.key /var/www/haproxy-wi/app/certs/
+#ADD haproxy-wi.crt haproxy-wi.key /var/www/haproxy-wi/app/certs/
